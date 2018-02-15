@@ -1,5 +1,5 @@
 # TwittMap
-## Ping Zhu & Chengyun Yu
+### Ping Zhu & Chengyun Yu
 
 The goal of this assignment is to provide you experience in developing and deploying a web application using AWS Cloud services. Your web application would collect Twitts and do some processing and represent the Twitts on GoogleMaps. Following are the required steps:
 
