@@ -1,5 +1,5 @@
-# TwittMap
-Ping Zhu & Chengyun Yu
+## TwittMap
+# Ping Zhu & Chengyun Yu
 
 The goal of this assignment is to provide you experience in developing and deploying a web application using AWS Cloud services. Your web application would collect Twitts and do some processing and represent the Twitts on GoogleMaps. Following are the required steps:
 
@@ -12,4 +12,3 @@ Bonus: Use ElasticSearch’s or CloudSearch’s geospatial feature that shows tw
 You can choose whichever backend data services if you need any. Also feel free to choose any Web Application Framework. We've provided you with a comprehensive list of frameworks and tutorials on this page.
 
 Here's an example of plotting tweets on a map : https://worldmap.harvard.edu/tweetmap/
-# twittmap
